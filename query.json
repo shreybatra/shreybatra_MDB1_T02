@@ -1,5 +1,5 @@
 {
     "rated": {
-        "$in": ["TV-Y7", "TV-G", "TV-MA"]
+        "$in": ["TV-Y7", "TV-G"]
     }
 }
